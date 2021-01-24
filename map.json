@@ -33,6 +33,12 @@
          "id":16,
          "name":"start_stairs",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -49,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map-ug.json#start"
+                 "value":"map-ug.json#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
