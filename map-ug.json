@@ -40,7 +40,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":28,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"JitsiLASVEGAS"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":28,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":28,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"map.json#start_stairs"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":28,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"test"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":28,
          "x":0,
          "y":0
@@ -169,10 +169,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/frances.itch.io\/tiny-alien-invasion"
+                 "value":"https:\/\/funhtml5games.com\/?play=spaceinvaders"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":28,
          "x":0,
          "y":0
