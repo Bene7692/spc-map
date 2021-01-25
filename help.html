@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <script>
+            window.onload = function() {
+                var path = window.location.pathname;
+                if (path.endsWith('index.html')) {
+                    path = path.substr(path, path.length - 'index.html'.length);
+                }
+                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'map.json';
+                document.getElementById('mapLink').href = url;
+                document.getElementById('mapLink').innerText = url;
+            };
+        </script>
+<style>
+#wrapper {
+  position: relative;
+  width: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+  text-align: center;
+  vertical-align: middle;
+}
+
+body {
+  background-color: #666666;
+  color: #ffffff;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+  font-size: 18px;
+  text-align: center;
+}
+</style>
+    </head>
+    <body>
+        Willkommen in der virtuellen SPC-Welt!
+        <br/>
+        <br/>
+        Du kannst mit den Pfeiltasten umherlaufen und mit 'Shift' sprinten.
+        <br/>
+        Wenn du andere Personen triffst, öffnet sich ein Fenster in denen ihr euch mit bis zu 4 Personen unterhalten könnt. Manchen Räumen und Zonen sind auch vorgefertigte Videokonferenzräume zugeordnet, die sich automatisch beim Betreten öffnen. Außerdem sind über die Karte auch überall ein paar kleine Funktionen & Eastereggs verteilt die gefunden werden können.
+        <br/>
+        <br/>
+        Viel Spaß!
+    </body>
+</html>
