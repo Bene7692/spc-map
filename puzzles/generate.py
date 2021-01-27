@@ -19,12 +19,16 @@ for i in range(len(info["answer"])):
 		correctAnswerExit = info["answer"][:i+1]
 	result = MAP_TEMPLATE
 	result = result.replace("\"image\":\"..\\/", "\"image\":\"..\\/..\\/")
+	
+	
 	for j in range(10):
 		result = result.replace("$PH_" + str(j) + "$", "start" if (str(j) != str(info["answer"][i])) else correctAnswerExit)
 	
-	
-	
 	fileName = "start" if i == 0 else info["answer"][:i]
+	
+	result = result.replace("$PUZZLE_NAME$", PUZZLE_NAME)
+	result = result.replace("$PROGRESS$", fileName)
+	
 	with open(PUZZLE_NAME + "/" + fileName + ".json", "w") as outputFile:
 		outputFile.write(result)
 	

@@ -15,6 +15,12 @@
          "id":2,
          "name":"Floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"bene7692.github.io\/spc-map\/puzzles\/$PUZZLE_NAME$\/$PROGRESS$.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":11,
