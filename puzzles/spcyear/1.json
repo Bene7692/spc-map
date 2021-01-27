@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -163,7 +163,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -181,7 +181,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start"
                 }],
          "type":"tilelayer",
          "visible":false,
