@@ -22,7 +22,7 @@ for i in range(len(info["answer"])):
 	
 	
 	for j in range(10):
-		result = result.replace("$PH_" + str(j) + "$.json", "start" if (str(j) != str(info["answer"][i])) else correctAnswerExit)
+		result = result.replace("$PH_" + str(j) + "$.json", "start.json" if (str(j) != str(info["answer"][i])) else correctAnswerExit)
 	
 	fileName = "start" if i == 0 else info["answer"][:i]
 	
