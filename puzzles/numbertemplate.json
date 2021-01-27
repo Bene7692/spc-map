@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"bene7692.github.io\/spc-map\/puzzles\/$PUZZLE_NAME$\/$PROGRESS$.html"
+                 "value":"https:\/\/bene7692.github.io\/spc-map\/puzzles\/$PUZZLE_NAME$\/$PROGRESS$.html"
                 }],
          "type":"tilelayer",
          "visible":true,

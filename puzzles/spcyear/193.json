@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"bene7692.github.io\/spc-map\/puzzles\/spcyear\/193.html"
+                 "value":"https:\/\/bene7692.github.io\/spc-map\/puzzles\/spcyear\/193.html"
                 }],
          "type":"tilelayer",
          "visible":true,
