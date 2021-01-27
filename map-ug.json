@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"survival.html"
+                 "value":"https:\/\/bene7692.github.io\/spc-map\/survival.html"
                 }],
          "type":"tilelayer",
          "visible":true,
