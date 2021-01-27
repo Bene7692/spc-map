@@ -1,0 +1,5 @@
+{
+	"question": "In welchem Jahr wurde SPC eröffnet?",
+	"answer": "1936",
+	"endpoint": "map.json#start_geheim1"
+}
