@@ -145,7 +145,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"../../map.json#start_geheim1"
+                 "value":"../../map.json#start_geheim"
                 }],
          "type":"tilelayer",
          "visible":false,
